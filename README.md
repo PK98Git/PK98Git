@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pasindu Kanchana
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning @Sllit and MIT
+- 🌱 I’m currently learning @Sllit and UOK
 - 💞️ I’m looking to collaborate on full stack developing
 - 📫 How to reach me - drop me a mail
 
