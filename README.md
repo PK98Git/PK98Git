@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently an undergraduate @Sllit and @UOK
 - 💞️ I’m looking to collaborate on full stack developing
-- 📫 How to reach me - drop me a mail
+- 📫 How to reach me - pkbiz1998@gmail.com
 
 <!---
 PK98Git/PK98Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
