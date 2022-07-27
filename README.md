@@ -30,6 +30,13 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PK98Git&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PK98Git)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 PK98Git/PK98Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
