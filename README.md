@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/PK98Git/PK98Git/blob/main/devcard.svg" width="400" alt="Pasindu Kanchana's Dev Card"/></a>
+
+
 - 👋 Hi, I’m Pasindu Kanchana
 - 👀 I’m interested in Programming
 - 🌱 I’m currently an undergraduate @Sllit and @UOK
