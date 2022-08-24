@@ -41,3 +41,30 @@
 PK98Git/PK98Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Github Stats  
+<table>
+
+<tr>
+    <td valign="top" width="50%">
+        <img alt="AvishkaRodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="center" style="width: 100%"  />
+    </td>
+    <td valign="top" width="50%">
+        <img alt="Pasindu Kanchana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PK98Git&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="center" style="width: 100%"  />
+    </td>
+</tr>
+
+<tr>
+    <td  width="50%" colspan="2">
+        Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.  
+    </td>
+</tr>
+</table>  
+
+<p align="center">
+    <a href="https://github.com/AvishkaRodrigo/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PK98Git's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PK98Git&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<a href="https://github.com/PK98Git/github-readme-activity-graph"><img alt="PK98Git's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PK98Git&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
