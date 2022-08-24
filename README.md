@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
     <td valign="top" width="50%">
-        <img alt="PK98Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvishkaRodrigo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="center" style="width: 100%"  />
+        <img alt="PK98Git's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PK98Git&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="center" style="width: 100%"  />
     </td>
     <td valign="top" width="50%">
         <img alt="Pasindu Kanchana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PK98Git&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="center" style="width: 100%"  />
