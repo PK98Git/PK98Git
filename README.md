@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/PK98Git/PK98Git/blob/main/devcard.svg" width="400" alt="Pasindu Kanchana's Dev Card"/></a>
+<a href="https://app.daily.dev/pasinduK98"><img src="https://api.daily.dev/devcards/1d6f84492cd84a53aff81cb6908ae059.png?r=i3h" width="400" alt="Pasindu Kanchana's Dev Card"/></a>
 
 
 - 👋 Hi, I’m Pasindu Kanchana
