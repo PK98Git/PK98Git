@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m Pasindu Kanchana
-- 👀 I’m interested in Programming
-- 🌱 I’m currently an undergraduate @SLIIT and @UOK
+- 👀 I’m interested in Fullstack development
+- 🌱 I’m currently a fresh Graduate @ SLIIT
 - 💞️ I’m looking to collaborate on full stack developing
 - 📫 How to reach me - pkbiz1998@gmail.com
 
