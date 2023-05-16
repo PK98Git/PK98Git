@@ -1,11 +1,14 @@
+
 <a href="https://app.daily.dev/pasinduK98"><img src="https://api.daily.dev/devcards/1d6f84492cd84a53aff81cb6908ae059.png?r=i3h" width="400" alt="Pasindu Kanchana's Dev Card"/></a>
 
+<br>
 
 - 👋 Hi, I’m Pasindu Kanchana
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently a fresh Graduate @ SLIIT
 - 💞️ I’m looking to collaborate on full stack developing
 - 📫 How to reach me - pkbiz1998@gmail.com
+
 
 
 
