@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on full stack developing
 - 📫 How to reach me - pkbiz1998@gmail.com
 
-
+![](https://komarev.com/ghpvc/?username=PK98Git)
 
 
 ## 🚀 Languages and Tools:
